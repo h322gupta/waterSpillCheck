@@ -31,3 +31,9 @@ All the necessary library versions are mentioned in the requirements.txt file
 
 ********************************************************************************
 
+*****************Location of trained model**************************************
+https://drive.google.com/drive/folders/1b98l3SVkhPxfoZSoY4OJ1vlaIC_PGQEN?usp=share_link
+********************************************************************************
+
+
+
